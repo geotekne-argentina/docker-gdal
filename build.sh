@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t geotekne/gdal:2.1.4 .
+docker build -t geotekne/gdal:2.1.4-alpine .
