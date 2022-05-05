@@ -25,5 +25,5 @@ Se provee script para build de la imagen (**build.sh**) con el fín de simplific
 
 Ejemplo de diagrama para la versión Alpine:
 
-![Ejemplo de diagrama para la versión Alpine](/home/jmacchi/prg/geotekne/docker-gdal/diagram.svg)
+![Ejemplo de diagrama para la versión Alpine](./diagram.svg)
 
